@@ -58,7 +58,6 @@ for i in range(echo):
     # pool = Pool(processes=n_jobs)
     # pool.map(svm.fit(X_train, Y_train)
     #          , range(n_jobs))
-
     svm.fit(X_train, Y_train)
     # 使用测试数据进行预测
     predict = svm.predict(X_test)
