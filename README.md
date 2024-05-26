@@ -2,7 +2,7 @@
 
 
 
-- [21年电赛送药小车视觉部分，一次失败的项目经历][#21年电赛送药小车视觉部分一次失败的项目经历](https://github.com/krivewuyuhao/21_send_yao_car)
+- [21年电赛送药小车视觉部分，一次失败的项目经历](https://github.com/krivewuyuhao/21_send_yao_car)
   - [目录](#目录)
   - [相关项目](#相关项目)
   - [主要项目负责人](#主要项目负责人)
@@ -52,8 +52,6 @@
 上传21年电赛视觉部分小车代码
 
 ### 贡献人员
-
-感谢所有贡献的人。
 
 [@Wuyuhao](https://github.com/krivewuyuhao)
 
